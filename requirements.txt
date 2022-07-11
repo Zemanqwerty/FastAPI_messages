@@ -6,7 +6,9 @@ fastapi==0.78.0
 h11==0.13.0
 httptools==0.4.0
 idna==3.3
+Jinja2==3.1.2
 loguru==0.6.0
+MarkupSafe==2.1.1
 psycopg==3.0.15
 psycopg-c==3.0.15
 psycopg2==2.9.3
